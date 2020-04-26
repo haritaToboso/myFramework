@@ -14,6 +14,7 @@ POM
 Data Driven
 
 Integrations (Expectation) - Jenkins,JIRA,Applitools,SauceLabs,AutoIT
+
 Integrations (Actual) - Jenkins,BrowserStack
 
 Log - Log4J
