@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="17063" started-at="2020-04-21T21:41:41 IST" finished-at="2020-04-21T21:41:58 IST">
+  <suite name="Suite" duration-ms="25568" started-at="2020-04-25T20:07:04 IST" finished-at="2020-04-25T20:07:29 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="17063" started-at="2020-04-21T21:41:41 IST" finished-at="2020-04-21T21:41:58 IST">
-      <class name="selenium.myFramework.tests.HomePageTest">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:selenium.myFramework.tests.HomePageTest@71bbf57e]" name="SetUp" is-config="true" duration-ms="10546" started-at="2020-04-21T21:41:41 IST" finished-at="2020-04-21T21:41:51 IST">
+    <test name="Test" duration-ms="25568" started-at="2020-04-25T20:07:04 IST" finished-at="2020-04-25T20:07:29 IST">
+      <class name="tests.HomePageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tests.HomePageTest@1786dec2]" name="SetUp" is-config="true" duration-ms="17126" started-at="2020-04-25T20:07:04 IST" finished-at="2020-04-25T20:07:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="launchHomePage()[pri:0, instance:selenium.myFramework.tests.HomePageTest@71bbf57e]" name="launchHomePage" duration-ms="5567" started-at="2020-04-21T21:41:51 IST" finished-at="2020-04-21T21:41:57 IST">
+        <test-method status="PASS" signature="launchHomePage()[pri:0, instance:tests.HomePageTest@1786dec2]" name="launchHomePage" duration-ms="6990" started-at="2020-04-25T20:07:21 IST" finished-at="2020-04-25T20:07:28 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchHomePage -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:selenium.myFramework.tests.HomePageTest@71bbf57e]" name="teardown" is-config="true" duration-ms="892" started-at="2020-04-21T21:41:57 IST" finished-at="2020-04-21T21:41:58 IST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.HomePageTest@1786dec2]" name="teardown" is-config="true" duration-ms="1291" started-at="2020-04-25T20:07:28 IST" finished-at="2020-04-25T20:07:29 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- selenium.myFramework.tests.HomePageTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

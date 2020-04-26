@@ -1,0 +1,10 @@
+[DEBUG] 2020-04-24 21:10:45.577 [main] Log4J2PropertiesConf - This is a debug message
+[INFO ] 2020-04-24 21:10:45.584 [main] Log4J2PropertiesConf - This is an info message
+[WARN ] 2020-04-24 21:10:45.584 [main] Log4J2PropertiesConf - This is a warn message
+[ERROR] 2020-04-24 21:10:45.584 [main] Log4J2PropertiesConf - This is an error message
+[FATAL] 2020-04-24 21:10:45.585 [main] Log4J2PropertiesConf - This is a fatal message
+[DEBUG] 2020-04-24 21:10:45.578 [main] Log4J2PropertiesConf - This is a debug message
+[INFO ] 2020-04-24 21:10:45.587 [main] Log4J2PropertiesConf - This is an info message
+[WARN ] 2020-04-24 21:10:45.587 [main] Log4J2PropertiesConf - This is a warn message
+[ERROR] 2020-04-24 21:10:45.587 [main] Log4J2PropertiesConf - This is an error message
+[FATAL] 2020-04-24 21:10:45.589 [main] Log4J2PropertiesConf - This is a fatal message

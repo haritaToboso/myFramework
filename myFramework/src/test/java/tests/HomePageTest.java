@@ -1,5 +1,6 @@
 package tests;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import base.BaseTest;
@@ -46,6 +47,12 @@ public class HomePageTest extends BaseTest{
 		homePage.goToLoginPage();
 	}
 		
-	
+	//@Test
+	public void TestFail ()
+	{
+		homePage=new HomePage(getDriver());
+		homePage.launchHomePage();
+		Assert.assertEquals(true,false);
+	}
 		
 }

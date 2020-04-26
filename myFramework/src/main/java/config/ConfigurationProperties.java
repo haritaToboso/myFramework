@@ -12,7 +12,7 @@ public class ConfigurationProperties {
 
     private Properties properties=new Properties();
 	String path = System.getProperty("user.dir");
-	private final String propertyFilePath= path +"\\src\\main\\java\\selenium\\myFramework\\config\\globalConfigurations.properties";
+	private final String propertyFilePath= path +"\\src\\main\\java\\config\\globalConfigurations.properties";
 	
 	//Method to get property value
 	public String getProperties(String key)
